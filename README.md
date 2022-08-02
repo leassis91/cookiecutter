@@ -1,6 +1,6 @@
 # Cookiecutter Data Science
 
-_A standardized project structure for doing and sharing data science project
+_A standardized project structure for doing and sharing data science project_
 
 ### Requirements to use the cookiecutter template:
 -----------
