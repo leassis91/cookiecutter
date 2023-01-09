@@ -89,8 +89,8 @@ Creation of variables (features) relevant to solving the problem
 
 # Author
 
-Djalma Luiz da Silva Junior
+Leandro Destefani
 
 
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/djalmajunior07)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/leandrodestefani)
